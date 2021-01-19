@@ -1,0 +1,1 @@
+Nasa blog is a website that fetches several requests from NASA open Api and uses them to construct a card which holds all the details of certain events. A high quality images can be viwed by clicking on the image of the article.
